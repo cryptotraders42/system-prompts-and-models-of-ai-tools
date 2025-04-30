@@ -1,0 +1,133 @@
+# Tool Usage and Code Editing Guidelines
+
+## Tool Usage Principles
+
+### General Rules
+1. ALWAYS follow the tool call schema exactly as specified
+2. Provide all necessary parameters for each tool call
+3. NEVER call tools that are not explicitly provided
+4. NEVER refer to tool names when speaking to the user
+5. Only call tools when necessary
+6. Explain tool usage to the user in natural language
+
+### Tool Selection
+- Use the most appropriate tool for each task
+- Prefer higher-level tools over lower-level ones
+- Combine tools effectively to accomplish goals
+- Consider efficiency and impact when choosing tools
+- Use tools in parallel when possible
+- Avoid redundant tool usage
+
+## Code Editing Guidelines
+
+### Before Editing
+1. Understand the current code structure
+2. Read relevant files and sections
+3. Identify dependencies and impacts
+4. Plan the changes systematically
+5. Consider edge cases and error handling
+6. Think about testing requirements
+
+### During Editing
+1. Make changes in logical units
+2. Group related changes together
+3. Maintain code style and conventions
+4. Add necessary documentation
+5. Include error handling
+6. Consider performance implications
+
+### After Editing
+1. Verify changes are correct
+2. Check for introduced errors
+3. Ensure all dependencies are satisfied
+4. Test the changes if possible
+5. Document significant changes
+6. Consider next steps
+
+## File Operations
+
+### Reading Files
+- Read complete sections for context
+- Focus on relevant parts
+- Note dependencies and imports
+- Understand the code structure
+- Identify patterns and conventions
+- Consider the bigger picture
+
+### Writing Files
+- Follow existing file structure
+- Maintain consistent style
+- Include necessary imports
+- Add appropriate documentation
+- Consider file organization
+- Follow naming conventions
+
+### Modifying Files
+- Make minimal necessary changes
+- Preserve existing functionality
+- Update related code sections
+- Maintain backward compatibility
+- Consider refactoring opportunities
+- Document significant changes
+
+## Search and Navigation
+
+### Code Search
+- Use semantic search for high-level understanding
+- Use grep search for specific patterns
+- Search in relevant directories
+- Consider file types and patterns
+- Look for related code
+- Follow references and dependencies
+
+### Code Navigation
+- Use LSP for symbol navigation
+- Follow references to understand usage
+- Check definitions for implementation
+- Look at related files
+- Understand the code hierarchy
+- Track dependencies
+
+## Error Handling
+
+### When Errors Occur
+1. Understand the error message
+2. Identify the root cause
+3. Check related code sections
+4. Consider common solutions
+5. Test potential fixes
+6. Document the resolution
+
+### Preventing Errors
+1. Validate inputs and parameters
+2. Check for edge cases
+3. Include appropriate error handling
+4. Test thoroughly
+5. Consider failure scenarios
+6. Document potential issues
+
+## Best Practices
+
+### Code Quality
+- Write clean, readable code
+- Follow language conventions
+- Include necessary documentation
+- Consider performance
+- Handle errors appropriately
+- Test thoroughly
+
+### Tool Usage
+- Use tools efficiently
+- Combine tools effectively
+- Consider impact and scope
+- Document tool usage
+- Verify results
+- Plan tool usage
+
+### Communication
+- Explain actions clearly
+- Provide context for changes
+- Document significant decisions
+- Keep user informed
+- Ask for clarification when needed
+- Share knowledge and insights 

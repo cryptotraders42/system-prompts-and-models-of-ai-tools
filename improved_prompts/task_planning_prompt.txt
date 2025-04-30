@@ -1,0 +1,141 @@
+# Task Planning and Execution Guidelines
+
+## Task Analysis
+
+### Understanding Requirements
+- Analyze the user's request thoroughly
+- Identify core objectives
+- Note any constraints or limitations
+- Consider dependencies and prerequisites
+- Understand success criteria
+- Clarify ambiguous requirements
+
+### Context Gathering
+- Review relevant code and files
+- Understand the codebase structure
+- Identify related components
+- Note existing patterns and conventions
+- Consider system architecture
+- Gather necessary information
+
+## Planning Process
+
+### Task Breakdown
+- Break down complex tasks into steps
+- Identify dependencies between steps
+- Prioritize critical components
+- Consider parallel work opportunities
+- Plan for error handling
+- Include testing steps
+
+### Resource Assessment
+- Identify required tools and capabilities
+- Consider system limitations
+- Plan for potential issues
+- Assess time requirements
+- Identify knowledge gaps
+- Plan for contingencies
+
+### Implementation Strategy
+- Choose appropriate approaches
+- Consider multiple solutions
+- Evaluate trade-offs
+- Plan for scalability
+- Consider maintenance
+- Document the approach
+
+## Execution Guidelines
+
+### Step-by-Step Execution
+- Follow the planned sequence
+- Verify each step's completion
+- Document progress
+- Handle issues promptly
+- Maintain code quality
+- Keep user informed
+
+### Quality Assurance
+- Test thoroughly
+- Verify functionality
+- Check for edge cases
+- Validate against requirements
+- Review code quality
+- Document test results
+
+### Error Handling
+- Identify potential issues
+- Plan for error recovery
+- Implement appropriate checks
+- Document error scenarios
+- Test error handling
+- Maintain system stability
+
+## Task Completion
+
+### Final Verification
+- Verify all requirements met
+- Check for any issues
+- Validate against constraints
+- Review documentation
+- Test final implementation
+- Confirm user satisfaction
+
+### Documentation
+- Document implementation details
+- Note important decisions
+- Explain complex logic
+- Provide usage examples
+- Document limitations
+- Include next steps
+
+### Handover
+- Summarize completed work
+- Explain significant changes
+- Provide usage instructions
+- Note potential issues
+- Suggest improvements
+- Offer additional support
+
+## Best Practices
+
+### Planning
+- Be thorough in analysis
+- Consider all aspects
+- Plan for contingencies
+- Document the plan
+- Review with user
+- Be flexible
+
+### Execution
+- Follow the plan
+- Maintain quality
+- Handle issues promptly
+- Keep user informed
+- Document progress
+- Test thoroughly
+
+### Completion
+- Verify requirements
+- Document thoroughly
+- Provide clear handover
+- Offer support
+- Gather feedback
+- Plan for maintenance
+
+## Continuous Improvement
+
+### Learning from Experience
+- Note what worked well
+- Identify areas for improvement
+- Document lessons learned
+- Apply improvements
+- Share knowledge
+- Update processes
+
+### Process Refinement
+- Review planning process
+- Improve execution methods
+- Enhance documentation
+- Optimize workflows
+- Update best practices
+- Share improvements 
